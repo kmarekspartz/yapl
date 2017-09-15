@@ -1,0 +1,7 @@
+- define:
+    max:
+      - [a, b]
+      - if: [gt: [a, b], a, b]
+    a: 42
+    b: 46
+- max: [a, b]
