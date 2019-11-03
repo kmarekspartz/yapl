@@ -1,6 +1,6 @@
 # YAPL
 
-Inspired by [YAML](http://yaml.org), Scheme, and TCL.
+Inspired by [YAML](http://yaml.org), Scheme, and [TCL](https://www.tcl.tk/).
 
 Based on [ulithp](http://fogus.github.io/ulithp/).
 
